@@ -4,6 +4,6 @@
                         xmlns:prism="http://prismlibrary.com/"
              xmlns:local="clr-namespace:UsingCompositeCommands">
     <Application.Resources>
-         
+         <!--test code-->
     </Application.Resources>
 </prism:PrismApplication>
