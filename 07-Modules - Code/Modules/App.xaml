@@ -4,6 +4,6 @@
              xmlns:prism="http://prismlibrary.com/"
              xmlns:local="clr-namespace:Modules">
     <Application.Resources>
-         <!--Original Empty Resources-->
+         
     </Application.Resources>
 </prism:PrismApplication>
